@@ -1,17 +1,16 @@
 # Hi, I'm **Ekep Obasi** 👋
-
-## 💫 About Me:
   
-🔭 **Current Project:** I’m working on [Testify](https://testify.cool) – a platform to simplify collecting, managing, and sharing user feedback and testimonials.
+🔭 **Current Project:** I’m working on [Testify](https://app.testify.cool) – a platform to simplify collecting, managing, and sharing user feedback and testimonials.
 
 👯 **Collaboration:** Always interested in real-world projects! If you’ve got something in mind, let’s chat.
+
+📫 Feel free to reach me out arreyettaekep@gmail.com
 
 🌱 **Learning Journey:** Diving into **Golang & Python** right now! Expanding my backend skills for even more robust projects.
 
 💬 **Ask Me About:** TypeScript, JavaScript, Node JS, React, and building out clean, scalable web applications.
 
 ⚡ **Fun Fact:** Many people think I'm a perfectionist, but I’m more of a backend guy.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arrey-etta) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@arreyettaekep) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/ArreyEkep) 
