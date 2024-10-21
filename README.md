@@ -1,6 +1,6 @@
 # Hi, I'm **Ekep Obasi** 👋
   
-🔭 **Current Project:** I’m working on [Testify](https://testify.cool) – a platform to simplify collecting, managing, and sharing user feedback and testimonials.
+🔭 **Current Project:** I’m working on [Testify](https://testify.cool) – a platform to simplify collecting, managing, analyzing, and sharing user feedback and testimonials.
 
 👯 **Collaboration:** Always interested in real-world projects! If you’ve got something in mind, let’s chat.
 
