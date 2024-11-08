@@ -2,6 +2,9 @@
   
 🔭 **Current Project:** I’m working on [Testify](https://testify.cool) – a platform to simplify collecting, managing, analyzing, and sharing user feedback and testimonials.
 
+![https://testify.cool](https://github.com/user-attachments/assets/b3fe4eac-782f-476c-824c-552adf40d4a1)
+
+
 👯 **Collaboration:** Always interested in real-world projects! If you’ve got something in mind, let’s chat.
 
 📫 Feel free to reach me out arreyettaekep@gmail.com
