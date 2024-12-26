@@ -1,18 +1,14 @@
 # Hi, I'm **Ekep Obasi** 👋
   
-🔭 **Current Project:** I’m working on  👉 [Testify](https://testify.cool) 👈 – a Saas platform to simplify collecting, managing, analyzing, and sharing user feedback and testimonials. 👀👇 
+🔭 **Current Project:** I'm working on 👉 [Testify](https://testify.cool) 👈 – a SaaS platform that streamlines the process of collecting, managing, analyzing, and sharing user feedback and testimonials.
 
-![https://testify.cool](https://github.com/user-attachments/assets/b3fe4eac-782f-476c-824c-552adf40d4a1)
+👯 **Collaboration:** I'm passionate about working on impactful real-world projects. If you have an interesting opportunity, let's connect.
 
-👯 **Collaboration:** Always interested in real-world projects! If you’ve got something in mind, let’s chat.
+📫 **Contact:** Feel free to reach out at arreyettaekep@gmail.com
 
-📫 Feel free to reach me out arreyettaekep@gmail.com
+🌱 **Current Focus:** Expanding my backend expertise through **Golang & Python**, with a focus on building highly scalable systems.
 
-🌱 **Learning Journey:** Diving into **Golang & Python** right now! Expanding my backend skills for even more robust projects.
-
-💬 **Ask Me About:** TypeScript, JavaScript, Node JS, React, and building out clean, scalable web applications.
-
-⚡ **Fun Fact:** Many people think I'm a perfectionist, but I’m more of a backend guy.
+💬 **Core Expertise:** TypeScript, JavaScript, Node.js, React, and architecting clean, scalable web applications with a strong emphasis on backend development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arrey-etta) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@arreyettaekep) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/ArreyEkep) 
