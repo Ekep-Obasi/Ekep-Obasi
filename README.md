@@ -1,6 +1,6 @@
 ### Hi, I'm **Bessong** 👋
   
-🔭 **Current Project:** I'm working on [Testify](https://www.testify.cool/?utm_source=github&utm_medium=social&utm_campaign=github@ekep-obasi), a SaaS platform that streamlines collecting, managing, analyzing, and sharing user feedback and testimonials.
+🔭 **Current Project:** I'm working on [Testify](https://testify-cool.vercel.app/?utm_source=github&utm_medium=social&utm_campaign=github@ekep-obasi), a SaaS platform that streamlines collecting, managing, analyzing, and sharing user feedback and testimonials.
 
 👯 **Collaboration:** I'm passionate about working on impactful real-world projects. If you have an interesting opportunity, let's connect.
 
